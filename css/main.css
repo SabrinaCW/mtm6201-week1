@@ -24,6 +24,12 @@ img {
     padding: 1em;
 }
 
-.list dt {
+dt {
     font-weight: bold;
+}
+
+dd {
+    padding-left: 0em;
+    list-style: none;
+    margin: 0;
 }
